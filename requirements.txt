@@ -3,3 +3,4 @@ streamlit
 docx2txt
 langchain
 openai.error
+utils
